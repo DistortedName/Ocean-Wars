@@ -5,9 +5,11 @@ Hello, this is a game made with JavaFX Eclipse
 - Make sure the Java SDK is installed
 - Run the main file from the src/application folder.
 
-src/ — Java source code
-Images/ — game graphics
-Sounds/ — audio files
-PlayerAnimationCPT/, EnemyCPT/, BackgroundCPT/ — animation assets
+-----------------------------------------------------------------
+
+- src/ — Java source code
+- Images/ — game graphics
+- Sounds/ — audio files
+- PlayerAnimationCPT/, EnemyCPT/, BackgroundCPT/ — animation assets
 
 This repository is purely for education and Java development skills
